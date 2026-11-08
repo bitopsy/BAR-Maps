@@ -4,17 +4,18 @@ This directory contains map packages and documentation for Beyond All Reason. Ea
 
 ## Maps
 
-| Map | Documentation | Preview | Archive |
-|-----|---------------|---------|---------|
-| AKUMA | [AKUMA.md](./AKUMA/AKUMA.md) | ![preview](./AKUMA/akuma_minimap.png) | [AKUMA.sd7](./AKUMA/AKUMA.sd7) |
-| avatar_v2 | [avatar_v2.md](./AVATAR/avatar_v2.md) | ![preview](./AVATAR/avatar_v2_preview.png) | [avatar_v2.sd7](./AVATAR/avatar_v2.sd7) |
-| paris | [paris.md](./PARIS/paris.md) | ![preview](./PARIS/paris_preview.png) | [paris.sd7](./PARIS/paris.sd7) |
-| planet_earth_v1 | [planet_earth_v1.md](./planet_earth/planet_earth_v1.md) | ![preview](./planet_earth/planet_earth_preview.png) | [planet_earth_v1.sd7](./planet_earth/planet_earth_v1.sd7) |
-| planet_mars | [planet_mars.md](./planet_mars/planet_mars.md) | ![preview](./planet_mars/planet_mars_minimap.png) | [planet_mars.sd7](./planet_mars/planet_mars.sd7) |
-| usa | [usa.md](./USA/usa.md) | ![preview](./USA/usa_minimap.png) | [usa.sd7](./USA/usa.sd7) |
-| yin-yang | [yin-yang.md](./yin-yang/yin-yang.md) | ![preview](./yin-yang/yin-yang_preview.png) | [yin-yang.sd7](./yin-yang/yin-yang.sd7) |
-| cosmic_spaceship_v1 | [SPACESHIP/cosmic_spaceship_v1.md](./SPACESHIP/cosmic_spaceship_v1.md) | ![preview](./SPACESHIP/SPACESHIP-MINIMAP.png) | [cosmic_spaceship_v1.sd7](../cosmic_spaceship_v1.sd7) |
-| chess_classical_v1 | [chess_classical_v1.md](./CHESS/chess_classical_v1.md) | ![preview](./CHESS/chess-minimap.png) | [chess_classical_v1.sd7](./CHESS/chess_classical_v1.sd7) |
+| Map | Documentation | Preview | Archive | Notes |
+|-----|---------------|---------|---------|-------|
+| AKUMA | [AKUMA.md](./AKUMA/AKUMA.md) | ![preview](./AKUMA/akuma_minimap.png) | [AKUMA.sd7](./AKUMA/AKUMA.sd7) | haunted map mostly for 4v4v4v4 zombie lobsters |
+| avatar_v2 | [avatar_v2.md](./AVATAR/avatar_v2.md) | ![preview](./AVATAR/avatar_v2_preview.png) | [avatar_v2.sd7](./AVATAR/avatar_v2.sd7) | mostly for 2v2v2v2 or 1v1v1v1 but also for teams like 4v4 |
+| paris | [paris.md](./PARIS/paris.md) | ![preview](./PARIS/paris_preview.png) | [paris.sd7](./PARIS/paris.sd7) | mostly for FFA with up to 16 or 20 players |
+| planet_earth_v1 | [planet_earth_v1.md](./planet_earth/planet_earth_v1.md) | ![preview](./planet_earth/planet_earth_preview.png) | [planet_earth_v1.sd7](./planet_earth/planet_earth_v1.sd7) | mostly for FFA with up to 16 or 20 players |
+| planet_mars | [planet_mars.md](./planet_mars/planet_mars.md) | ![preview](./planet_mars/planet_mars_minimap.png) | [planet_mars.sd7](./planet_mars/planet_mars.sd7) | hardest map mostly for 4v4 |
+| usa | [usa.md](./USA/usa.md) | ![preview](./USA/usa_minimap.png) | [usa.sd7](./USA/usa.sd7) | mostly for FFA with up to 16 or 20 players |
+| yin-yang | [yin-yang.md](./yin-yang/yin-yang.md) | ![preview](./yin-yang/yin-yang_preview.png) | [yin-yang.sd7](./yin-yang/yin-yang.sd7) | for a blitz 1v1 quick match |
+| BLOCKLAND | [minecraft_blockland_overworld_v2.md](./BLOCKLAND/minecraft_blockland_overworld_v2.md) | ![preview](./BLOCKLAND/minecraft_blockland_overworld_v2_minimap.png) | [minecraft_blockland_overworld_v2.sd7](./BLOCKLAND/minecraft_blockland_overworld_v2.sd7) | for 8v8 or 4v4 and being a procedural map with less than 1 MB based on Minecraft voxels |
+| cosmic_spaceship_v1 | [SPACESHIP/cosmic_spaceship_v1.md](./SPACESHIP/cosmic_spaceship_v1.md) | ![preview](./SPACESHIP/SPACESHIP-MINIMAP.png) | [cosmic_spaceship_v1.sd7](../cosmic_spaceship_v1.sd7) | for 1v1 or 2v2 |
+| chess_classical_v1 | [chess_classical_v1.md](./CHESS/chess_classical_v1.md) | ![preview](./CHESS/chess-minimap.png) | [chess_classical_v1.sd7](./CHESS/chess_classical_v1.sd7) | - |
 
 ## Directories
 
@@ -27,6 +28,7 @@ This directory contains map packages and documentation for Beyond All Reason. Ea
 - `SPACESHIP/` - cosmic_spaceship_v1 map files
 - `USA/` - usa map files
 - `yin-yang/` - yin-yang map files
+- `BLOCKLAND/` - BLOCKLAND map files
 
 ## Video Playlist
 
@@ -46,4 +48,3 @@ Each map's `.md` file includes sections for:
 - Mexes (Metal Extractors) count and placement
 - Strategic Notes
 
-These sections are templates to be filled in by the user.
