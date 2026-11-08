@@ -13,9 +13,9 @@ This directory contains map packages and documentation for Beyond All Reason. Ea
 | planet_mars | [planet_mars.md](./planet_mars/planet_mars.md) | ![preview](./planet_mars/planet_mars_minimap.png) | [planet_mars.sd7](./planet_mars/planet_mars.sd7) | hardest map mostly for 4v4 |
 | usa | [usa.md](./USA/usa.md) | ![preview](./USA/usa_minimap.png) | [usa.sd7](./USA/usa.sd7) | mostly for FFA with up to 16 or 20 players |
 | yin-yang | [yin-yang.md](./yin-yang/yin-yang.md) | ![preview](./yin-yang/yin-yang_preview.png) | [yin-yang.sd7](./yin-yang/yin-yang.sd7) | for a blitz 1v1 quick match |
-| BLOCKLAND | [minecraft_blockland_overworld_v2.md](./BLOCKLAND/minecraft_blockland_overworld_v2.md) | ![preview](./BLOCKLAND/minecraft_blockland_overworld_v2_minimap.png) | [minecraft_blockland_overworld_v2.sd7](./BLOCKLAND/minecraft_blockland_overworld_v2.sd7) | for 8v8 or 4v4 and being a procedural map with less than 1 MB based on Minecraft voxels |
+| BLOCKLAND | [minecraft_blockland_overworld_v2.md](./BLOCKLAND/minecraft_blockland_overworld_v2.md) | ![preview](./BLOCKLAND/minecraft_blockland_overworld_v2_minimap.png) | [minecraft_blockland_overworld_v2.sd7](./BLOCKLAND/minecraft_blockland_overworld_v2.sd7) |  procedural map with less than 1 MB based on Minecraft voxels |
 | cosmic_spaceship_v1 | [SPACESHIP/cosmic_spaceship_v1.md](./SPACESHIP/cosmic_spaceship_v1.md) | ![preview](./SPACESHIP/SPACESHIP-MINIMAP.png) | [cosmic_spaceship_v1.sd7](../cosmic_spaceship_v1.sd7) | for 1v1 or 2v2 |
-| chess_classical_v1 | [chess_classical_v1.md](./CHESS/chess_classical_v1.md) | ![preview](./CHESS/chess-minimap.png) | [chess_classical_v1.sd7](./CHESS/chess_classical_v1.sd7) | - |
+| chess_classical_v1 | [chess_classical_v1.md](./CHESS/chess_classical_v1.md) | ![preview](./CHESS/chess-minimap.png) | [chess_classical_v1.sd7](./CHESS/chess_classical_v1.sd7) | 1v1 to 3v3 versatile map |
 
 ## Directories
 
