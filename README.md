@@ -1,25 +1,26 @@
 # Maps - Beyond All Reason
 
-This directory contains map packages and documentation for Beyond All Reason. Each map has a `.md` documentation file, a `.sd7` archive, and a preview/minimap image.
+This directory contains map packages and documentation for Beyond All Reason. Each map has a `.md` documentation file, a `.sd7` archive, and a preview/minimap image, all located inside their corresponding subdirectory.
 
 ## Maps
 
 | Map | Documentation | Preview | Archive |
 |-----|---------------|---------|---------|
-| AKUMA | [AKUMA.md](./AKUMA.md) | ![preview](./akuma_minimap.png) | [AKUMA.sd7](./AKUMA.sd7) |
-| avatar_v2 | [avatar_v2.md](./avatar_v2.md) | ![preview](./avatar_v2_preview.png) | [avatar_v2.sd7](./avatar_v2.sd7) |
-| paris | [paris.md](./paris.md) | ![preview](./paris_preview.png) | [paris.sd7](./paris.sd7) |
-| planet_earth_v1 | [planet_earth_v1.md](./planet_earth_v1.md) | ![preview](./planet_earth_preview.png) | [planet_earth_v1.sd7](./planet_earth_v1.sd7) |
-| planet_mars | [planet_mars.md](./planet_mars.md) | ![preview](./planet_mars_minimap.png) | [planet_mars.sd7](./planet_mars.sd7) |
-| usa | [usa.md](./usa.md) | ![preview](./usa_minimap.png) | [usa.sd7](./usa.sd7) |
-| yin-yang | [yin-yang.md](./yin-yang.md) | ![preview](./yin-yang_preview.png) | [yin-yang.sd7](./yin-yang.sd7) |
+| AKUMA | [AKUMA.md](./AKUMA/AKUMA.md) | ![preview](./AKUMA/akuma_minimap.png) | [AKUMA.sd7](./AKUMA/AKUMA.sd7) |
+| avatar_v2 | [avatar_v2.md](./AVATAR/avatar_v2.md) | ![preview](./AVATAR/avatar_v2_preview.png) | [avatar_v2.sd7](./AVATAR/avatar_v2.sd7) |
+| paris | [paris.md](./PARIS/paris.md) | ![preview](./PARIS/paris_preview.png) | [paris.sd7](./PARIS/paris.sd7) |
+| planet_earth_v1 | [planet_earth_v1.md](./planet_earth/planet_earth_v1.md) | ![preview](./planet_earth/planet_earth_preview.png) | [planet_earth_v1.sd7](./planet_earth/planet_earth_v1.sd7) |
+| planet_mars | [planet_mars.md](./planet_mars/planet_mars.md) | ![preview](./planet_mars/planet_mars_minimap.png) | [planet_mars.sd7](./planet_mars/planet_mars.sd7) |
+| usa | [usa.md](./USA/usa.md) | ![preview](./USA/usa_minimap.png) | [usa.sd7](./USA/usa.sd7) |
+| yin-yang | [yin-yang.md](./yin-yang/yin-yang.md) | ![preview](./yin-yang/yin-yang_preview.png) | [yin-yang.sd7](./yin-yang/yin-yang.sd7) |
 | cosmic_spaceship_v1 | [SPACESHIP/cosmic_spaceship_v1.md](./SPACESHIP/cosmic_spaceship_v1.md) | ![preview](./SPACESHIP/SPACESHIP-MINIMAP.png) | [cosmic_spaceship_v1.sd7](../cosmic_spaceship_v1.sd7) |
+| chess_classical_v1 | [chess_classical_v1.md](./CHESS/chess_classical_v1.md) | ![preview](./CHESS/chess-minimap.png) | [chess_classical_v1.sd7](./CHESS/chess_classical_v1.sd7) |
 
 ## Directories
 
 - `AKUMA/` - AKUMA map files
 - `AVATAR/` - avatar_v2 map files
-- `CHESS/` - chess map files
+- `CHESS/` - chess_classical_v1 map files
 - `PARIS/` - paris map files
 - `planet_earth/` - planet_earth_v1 map files
 - `planet_mars/` - planet_mars map files
