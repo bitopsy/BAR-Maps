@@ -6,26 +6,16 @@ This directory contains map packages and documentation for Beyond All Reason. Ea
 
 | Map | Documentation | Preview | Archive | Notes |
 |-----|---------------|---------|---------|-------|
-| AKUMA | [AKUMA.md](./AKUMA/AKUMA.md) | ![preview](./AKUMA/akuma_minimap.png) | [AKUMA.sd7](./AKUMA/AKUMA.sd7) | haunted map mostly for 4v4v4v4 zombie lobsters |
-| avatar_v2 | [avatar_v2.md](./AVATAR/avatar_v2.md) | ![preview](./AVATAR/avatar_v2_preview.png) | [avatar_v2.sd7](./AVATAR/avatar_v2.sd7) | mostly for 2v2v2v2 or 1v1v1v1 but also for teams like 4v4 |
-| paris | [paris.md](./PARIS/paris.md) | ![preview](./PARIS/paris_preview.png) | [paris.sd7](./PARIS/paris.sd7) | mostly for FFA with up to 16 or 20 players |
-| planet_earth_v1 | [planet_earth_v1.md](./planet_earth/planet_earth_v1.md) | ![preview](./planet_earth/planet_earth_preview.png) | [planet_earth_v1.sd7](./planet_earth/planet_earth_v1.sd7) | mostly for FFA with up to 16 or 20 players |
-| planet_mars | [planet_mars.md](./planet_mars/planet_mars.md) | ![preview](./planet_mars/planet_mars_minimap.png) | [planet_mars.sd7](./planet_mars/planet_mars.sd7) | hardest map mostly for 4v4 |
-| usa | [usa.md](./USA/usa.md) | ![preview](./USA/usa_minimap.png) | [usa.sd7](./USA/usa.sd7) | mostly for FFA with up to 16 or 20 players |
-| yin-yang | [yin-yang.md](./yin-yang/yin-yang.md) | ![preview](./yin-yang/yin-yang_preview.png) | [yin-yang.sd7](./yin-yang/yin-yang.sd7) | for a blitz 1v1 quick match |
-| BLOCKLAND | [minecraft_blockland_overworld_v2.md](./BLOCKLAND/minecraft_blockland_overworld_v2.md) | ![preview](./BLOCKLAND/minecraft_blockland_overworld_v2_minimap.png) | [minecraft_blockland_overworld_v2.sd7](./BLOCKLAND/minecraft_blockland_overworld_v2.sd7) |  procedural map with less than 1 MB based on Minecraft voxels |
-| cosmic_spaceship_v1 | [SPACESHIP/cosmic_spaceship_v1.md](./SPACESHIP/cosmic_spaceship_v1.md) | ![preview](./SPACESHIP/SPACESHIP-MINIMAP.png) | [cosmic_spaceship_v1.sd7](../cosmic_spaceship_v1.sd7) | for 1v1 or 2v2 |
-| chess_classical_v1 | [chess_classical_v1.md](./CHESS/chess_classical_v1.md) | ![preview](./CHESS/chess-minimap.png) | [chess_classical_v1.sd7](./CHESS/chess_classical_v1.sd7) | 1v1 to 3v3 versatile map |
-
-## Directories
-
-- `AKUMA/` - AKUMA map files
-- `AVATAR/` - avatar_v2 map files
-- `CHESS/` - chess_classical_v1 map files
-- `PARIS/` - paris map files
-- `planet_earth/` - planet_earth_v1 map files
-- `planet_mars/` - planet_mars map files
-- `SPACESHIP/` - cosmic_spaceship_v1 map files
+| AKUMA | [AKUMA.md](./AKUMA/AKUMA.md) | ![preview](./AKUMA/akuma_minimap.png) | [AKUMA.sd7](./AKUMA/AKUMA.sd7) | 16 x 16 map units  (8,192 x 8,192 elmos) |
+| avatar_v2 | [avatar_v2.md](./AVATAR/avatar_v2.md) | ![preview](./AVATAR/avatar_v2_preview.png) | [avatar_v2.sd7](./AVATAR/avatar_v2.sd7) | 14 x 14 map units  (7,168 x 7,168 elmos) |
+| paris | [paris.md](./PARIS/paris.md) | ![preview](./PARIS/paris_preview.png) | [paris.sd7](./PARIS/paris.sd7) | 16 x 16 map units  (8,192 x 8,192 elmos) |
+| planet_earth_v1 | [planet_earth_v1.md](./planet_earth/planet_earth_v1.md) | ![preview](./planet_earth/planet_earth_preview.png) | [planet_earth_v1.sd7](./planet_earth/planet_earth_v1.sd7) | 24 x 12 map units  (12,288 x 6,144 elmos) |
+| planet_mars | [planet_mars.md](./planet_mars/planet_mars.md) | ![preview](./planet_mars/planet_mars_minimap.png) | [planet_mars.sd7](./planet_mars/planet_mars.sd7) | 16 x 16 map units  (8,192 x 8,192 elmos) |
+| usa | [usa.md](./USA/usa.md) | ![preview](./USA/usa_minimap.png) | [usa.sd7](./USA/usa.sd7) | 20 x 12 map units  (10,240 x 6,144 elmos) |
+| yin-yang | [yin-yang.md](./yin-yang/yin-yang.md) | ![preview](./yin-yang/yin-yang_preview.png) | [yin-yang.sd7](./yin-yang/yin-yang.sd7) | 8 x 8 map units  (4,096 x 4,096 elmos) |
+| BLOCKLAND | [minecraft_blockland_overworld_v2.md](./BLOCKLAND/minecraft_blockland_overworld_v2.md) | ![preview](./BLOCKLAND/minecraft_blockland_overworld_v2_minimap.png) | [minecraft_blockland_overworld_v2.sd7](./BLOCKLAND/minecraft_blockland_overworld_v2.sd7) | 16 x 16 map units  (8,192 x 8,192 elmos) |
+| cosmic_spaceship_v1 | [SPACESHIP/cosmic_spaceship_v1.md](./SPACESHIP/cosmic_spaceship_v1.md) | ![preview](./SPACESHIP/SPACESHIP-MINIMAP.png) | [cosmic_spaceship_v1.sd7](./SPACESHIP/cosmic_spaceship_v1.sd7) | 10 x 10 map units  (5,120 x 5,120 elmos) |
+| chess_classical_v1 | [chess_classical_v1.md](./CHESS/chess_classical_v1.md) | ![preview](./CHESS/chess-minimap.png) | [chess_classical_v1.sd7](./CHESS/chess_classical_v1.sd7) | 10 x 10 map units  (5,120 x 5,120 elmos) |
 - `USA/` - usa map files
 - `yin-yang/` - yin-yang map files
 - `BLOCKLAND/` - BLOCKLAND map files
