@@ -1,6 +1,6 @@
-# Maps - Beyond All Reason
+# Maps for Spring / Recoil Games:  Beyond All Reason - Zero-K - Metal Facctions - Voidborn
 
-This directory contains map packages and documentation for Beyond All Reason. Each map has a `.md` documentation file, a `.sd7` archive, and a preview/minimap image, all located inside their corresponding subdirectory.
+Each map has a `.md` documentation file, a `.sd7` archive, and a preview/minimap image, all located inside their corresponding subdirectory.
 
 ## Maps
 
